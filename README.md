@@ -1,4 +1,3 @@
- Hi, I’m chininiu! 
- 
+not a lazy programmer
 
 
